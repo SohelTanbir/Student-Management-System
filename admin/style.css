@@ -1,0 +1,21 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+h1{
+	color:blue;
+	font-weight:bold;
+}
+/* login area style here */
+.form_area{
+	width:500px;
+	margin:auto;
+}
+hr{
+	width:100%!important;
+	border:3px solid red;
+}
+.btn-info {
+	float:right!important;
+}

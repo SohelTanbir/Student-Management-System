@@ -1,0 +1,25 @@
+*{
+	margin:0;
+	padding:0;
+}
+/*index.php or home padge style here */
+.loginbtn{
+	float:right!important;
+}
+h1{
+	color:red;
+	font-weight:bold;
+}
+table{
+	width:50%;
+	height:150px;
+	margin:auto;
+}
+th{
+	text-align:center;
+	font-weight:bold;
+	font-size:20px;
+}
+td{
+	font-weight:bold;
+}
